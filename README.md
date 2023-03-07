@@ -1,1 +1,1 @@
-# Diseno-con-logica-programable
+# Diseño con logica programable
